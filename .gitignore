@@ -18,7 +18,3 @@ node_modules/
 # Debug files
 debug
 *.test
-
-# Build output
-Dockerfile
-docker-compose.yml
