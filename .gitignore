@@ -1,0 +1,24 @@
+# Binaries
+/bin/
+/order-service/order-service
+
+# Environment files
+.env
+*.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Debug files
+debug
+*.test
+
+# Build output
+Dockerfile
+docker-compose.yml
